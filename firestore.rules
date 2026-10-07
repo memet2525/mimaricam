@@ -1,0 +1,46 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Orders koleksiyonu (Sipariş Yönetimi ve İmalat Paneli erişimi)
+    match /orders/{orderId} {
+      allow read: if true;
+      allow create: if true;
+      allow update, delete: if true;
+    }
+
+    // Türkçe koleksiyon adı eşleşmesi için yedek kural (Varsa)
+    match /siparisler/{orderId} {
+      allow read: if true;
+      allow create: if true;
+      allow update, delete: if true;
+    }
+
+    // Ayarlar koleksiyonu (E-posta bildirim listesi için)
+    match /settings/{document=**} {
+      allow read, write: if true;
+    }
+
+    // Ürünler koleksiyonu (Web sitesinde herkese açık okuma, yetkili admin yazma)
+    match /products/{productId} {
+      allow read: if true;
+      allow write: if request.auth != null;
+    }
+
+    // Kategoriler koleksiyonu (Web sitesinde herkese açık okuma, yetkili admin yazma)
+    match /categories/{categoryId} {
+      allow read: if true;
+      allow write: if request.auth != null;
+    }
+
+    // Test bağlantısı doğrulama
+    match /test/{document=**} {
+      allow read: if true;
+    }
+
+    // Genel varsayılan kural
+    match /{document=**} {
+      allow read, write: if request.auth != null;
+    }
+  }
+}

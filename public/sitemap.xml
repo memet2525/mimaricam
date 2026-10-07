@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://mimaricam.com/camini-tasarla</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/mimaricam-logo.png?alt=media&amp;token=eac94e64-c2f6-4978-b9cc-8f9173d5ba29</image:loc>
+      <image:title>MimariCam - Şömine ve Yangın Camı Çözümleri</image:title>
+      <image:caption>MimariCam özel ölçü cam ve kapak fiyat hesaplayıcı</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/kare-somine-kagai.png?alt=media</image:loc>
+      <image:title>Kare Şömine Kapağı Çerçevesi</image:title>
+      <image:caption>Özel ölçü metal şömine kapağı ve cam montaj çerçevesi</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/kavisli-s%C3%B6mine-kapagi.png?alt=media</image:loc>
+      <image:title>Kavisli Şömine Kapağı Çerçevesi</image:title>
+      <image:caption>Kavisli ve bombe şömine camı kapak çerçevesi</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/mimaricam-logo.png?alt=media&amp;token=eac94e64-c2f6-4978-b9cc-8f9173d5ba29</image:loc>
+      <image:title>MimariCam Logo</image:title>
+      <image:caption>MimariCam şömine camı ve yangın camı çözümleri platformu</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/seramik-cam</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Feramik-cam-schott-robax-4mm-isiya-dayanikli.png?alt=media&amp;token=e0711ba3-00b0-4e47-a6ea-3ef1173f15c4</image:loc>
+      <image:title>SCHOTT ROBAX 4mm Seramik Cam</image:title>
+      <image:caption>800 dereceye dayanıklı SCHOTT ROBAX seramik cam plaka kesimi</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fseramik-cam-somine-kapak-cerceve-ici-olcu-alma.png?alt=media&amp;token=56284421-1dca-455d-a127-1280fd9cb5b8</image:loc>
+      <image:title>Seramik Cam Ölçüsü Alma</image:title>
+      <image:caption>Şömine kapak yuvasında cam ölçüsü alma tekniği</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fseramik-cam-fitil-destekli-guvenli-montaj.png?alt=media&amp;token=9c8769a2-c28f-45a9-9cfb-ed51b055bb95</image:loc>
+      <image:title>Fitil Destekli Güvenli Montaj</image:title>
+      <image:caption>Seramik elyaf fitil ile cam montajı</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fseramik-cam-somine-pelet-soba-alev-goruntusu.png?alt=media&amp;token=8c06e5c1-a622-4341-b5b8-e5dbb6810b04</image:loc>
+      <image:title>Modern Şömine ve Soba Seramik Cam Kullanımı</image:title>
+      <image:caption>Seramik camlı şömine ve pelet sobası alev görüntüsü</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/soba-cami</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Feramik-cam-schott-robax-4mm-isiya-dayanikli.png?alt=media&amp;token=e0711ba3-00b0-4e47-a6ea-3ef1173f15c4</image:loc>
+      <image:title>Soba Camı Kesimi SCHOTT ROBAX 4mm</image:title>
+      <image:caption>Pelet ve odun sobası için termal şoka dayanıklı seramik cam</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fseramik-cam-somine-kapak-cerceve-ici-olcu-alma.png?alt=media&amp;token=56284421-1dca-455d-a127-1280fd9cb5b8</image:loc>
+      <image:title>Soba Kapağı Cam Ölçüsü</image:title>
+      <image:caption>Soba kapağı iç yuvasında milimetrik cam ölçüsü tespiti</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fseramik-cam-fitil-destekli-guvenli-montaj.png?alt=media&amp;token=9c8769a2-c28f-45a9-9cfb-ed51b055bb95</image:loc>
+      <image:title>Soba Camı Fitilli Montaj</image:title>
+      <image:caption>Yanmaz seramik fitil ile soba kapağı cam montajı</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fseramik-cam-somine-pelet-soba-alev-goruntusu.png?alt=media&amp;token=8c06e5c1-a622-4341-b5b8-e5dbb6810b04</image:loc>
+      <image:title>Soba Alev Seyri</image:title>
+      <image:caption>Döküm ve pelet sobalarında net alev seyri ve ısı dayanımı</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/somine-cami</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Feramik-cam-schott-robax-4mm-isiya-dayanikli.png?alt=media&amp;token=e0711ba3-00b0-4e47-a6ea-3ef1173f15c4</image:loc>
+      <image:title>Şömine Camı SCHOTT ROBAX 4mm</image:title>
+      <image:caption>800 dereceye dayanıklı orijinal SCHOTT ROBAX şömine camı</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fseramik-cam-somine-kapak-cerceve-ici-olcu-alma.png?alt=media&amp;token=56284421-1dca-455d-a127-1280fd9cb5b8</image:loc>
+      <image:title>Şömine Camı Ölçü Alma</image:title>
+      <image:caption>Şömine döküm kapak yuvasında içten içe ölçü alma tekniği</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fseramik-cam-fitil-destekli-guvenli-montaj.png?alt=media&amp;token=9c8769a2-c28f-45a9-9cfb-ed51b055bb95</image:loc>
+      <image:title>Şömine Camı Montaj Kılavuzu</image:title>
+      <image:caption>Şömine camı fitili ve tırnak sabitleme montaj şeması</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fseramik-cam-somine-pelet-soba-alev-goruntusu.png?alt=media&amp;token=8c06e5c1-a622-4341-b5b8-e5dbb6810b04</image:loc>
+      <image:title>Şömine Alev Seyri</image:title>
+      <image:caption>Kapalı hazne şöminede yüksek sıcaklık alev görüntüsü</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/pelet-soba-cami</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Feramik-cam-schott-robax-4mm-isiya-dayanikli.png?alt=media&amp;token=e0711ba3-00b0-4e47-a6ea-3ef1173f15c4</image:loc>
+      <image:title>Pelet Soba Camı SCHOTT ROBAX 4mm</image:title>
+      <image:caption>Otomatik ve hermetik pelet sobaları için ısıya dayanıklı seramik cam</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fseramik-cam-somine-kapak-cerceve-ici-olcu-alma.png?alt=media&amp;token=56284421-1dca-455d-a127-1280fd9cb5b8</image:loc>
+      <image:title>Pelet Soba Camı Ölçüsü Alma</image:title>
+      <image:caption>Pelet sobası kapak yuvasında net cam ölçüsü tespiti</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fseramik-cam-fitil-destekli-guvenli-montaj.png?alt=media&amp;token=9c8769a2-c28f-45a9-9cfb-ed51b055bb95</image:loc>
+      <image:title>Pelet Soba Camı Montajı</image:title>
+      <image:caption>Hava sızdırmaz fitilli pelet sobası cam montajı</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fseramik-cam-somine-pelet-soba-alev-goruntusu.png?alt=media&amp;token=8c06e5c1-a622-4341-b5b8-e5dbb6810b04</image:loc>
+      <image:title>Pelet Sobası Alev Görünümü</image:title>
+      <image:caption>Modern pelet sobasında kesintisiz alev keyfi</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/kuzine-soba-cami</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Feramik-cam-schott-robax-4mm-isiya-dayanikli.png?alt=media&amp;token=e0711ba3-00b0-4e47-a6ea-3ef1173f15c4</image:loc>
+      <image:title>Kuzine Soba Camı SCHOTT ROBAX 4mm</image:title>
+      <image:caption>Fırınlı kuzine ve döküm sobalar için yüksek termal dayanımlı cam</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fseramik-cam-somine-kapak-cerceve-ici-olcu-alma.png?alt=media&amp;token=56284421-1dca-455d-a127-1280fd9cb5b8</image:loc>
+      <image:title>Kuzine Camı Ölçü Alma</image:title>
+      <image:caption>Kuzine kapağında milimetrik cam ölçüsü tespiti</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fseramik-cam-fitil-destekli-guvenli-montaj.png?alt=media&amp;token=9c8769a2-c28f-45a9-9cfb-ed51b055bb95</image:loc>
+      <image:title>Kuzine Cam Montajı</image:title>
+      <image:caption>Fitil destekli güvenli kuzine camı montajı</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fseramik-cam-somine-pelet-soba-alev-goruntusu.png?alt=media&amp;token=8c06e5c1-a622-4341-b5b8-e5dbb6810b04</image:loc>
+      <image:title>Kuzine Fırın ve Yanma Odası Alevi</image:title>
+      <image:caption>Kuzine fırın ve ateş kapağında şeffaf seramik cam</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/isiya-dayanikli-cam</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Feramik-cam-schott-robax-4mm-isiya-dayanikli.png?alt=media&amp;token=e0711ba3-00b0-4e47-a6ea-3ef1173f15c4</image:loc>
+      <image:title>Isıya Dayanıklı Cam Plakası</image:title>
+      <image:caption>Yüksek sıcaklık ve termal şoka dayanıklı cam seramik plaka</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fseramik-cam-somine-kapak-cerceve-ici-olcu-alma.png?alt=media&amp;token=56284421-1dca-455d-a127-1280fd9cb5b8</image:loc>
+      <image:title>Isıya Dayanıklı Cam Ölçü Alma</image:title>
+      <image:caption>Metal yuvadan genleşme toleransı düşülerek cam ölçüsü alma</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fseramik-cam-fitil-destekli-guvenli-montaj.png?alt=media&amp;token=9c8769a2-c28f-45a9-9cfb-ed51b055bb95</image:loc>
+      <image:title>Isıya Dayanıklı Cam Montajı</image:title>
+      <image:caption>Seramik fitil ile güvenli cam montaj şeması</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fseramik-cam-somine-pelet-soba-alev-goruntusu.png?alt=media&amp;token=8c06e5c1-a622-4341-b5b8-e5dbb6810b04</image:loc>
+      <image:title>Isıya Dayanıklı Cam Endüstriyel ve Evsel Kullanım</image:title>
+      <image:caption>Endüstriyel fırın ve şöminelerde termal cam uygulaması</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/yangin-cami</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fe30-yangin-cami-fiyat-hesaplama.png?alt=media&amp;token=6749f48f-5eca-4d5b-9ae0-3bd64439592a</image:loc>
+      <image:title>E30 Yangın Camı</image:title>
+      <image:caption>E30 sınıfı yangına dayanıklı cam alev ve duman bariyeri</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-sertifikali-urun.png?alt=media&amp;token=cf251cee-46cb-4e7b-8a77-0f0038df006d</image:loc>
+      <image:title>Sertifikalı Yangın Camı Plakası</image:title>
+      <image:caption>Çok katmanlı intümesan jel dolgulu yangın camı</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-dograma-olcusu.png?alt=media&amp;token=a4ae92c4-0980-410c-aaf3-18fa8ab9a45a</image:loc>
+      <image:title>Yangın Camı Doğrama Ölçüsü</image:title>
+      <image:caption>Yangın doğramasında çıta payı ve cam ölçüsü alma</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-montaj-detayi.png?alt=media&amp;token=d8bfba88-bb37-4b6d-81e0-42e3932149a7</image:loc>
+      <image:title>Yangın Camı Montajı</image:title>
+      <image:caption>Yangın takozu ve intümesan mastik ile montaj</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-yangin-bolme-duvari.png?alt=media&amp;token=887277ab-8b97-45bb-84b3-4677c1431ab8</image:loc>
+      <image:title>Yangın Bölme Duvarı Uygulaması</image:title>
+      <image:caption>Mimari projelerde kaçış koridoru yangın bölme duvarı</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/yangina-dayanikli-cam</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fe60-yangina-dayanikli-cam-fiyat-hesaplama.png?alt=media&amp;token=2f171f7c-b522-4077-aa31-116001c6148e</image:loc>
+      <image:title>E60 Yangına Dayanıklı Cam</image:title>
+      <image:caption>60 dakika yangın bütünlüğü sağlayan E60 yangın camı</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-sertifikali-urun.png?alt=media&amp;token=cf251cee-46cb-4e7b-8a77-0f0038df006d</image:loc>
+      <image:title>E60 Yangına Dayanıklı Cam Kesiti</image:title>
+      <image:caption>Yüksek optik netlik ve yangın bariyer katmanları</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-dograma-olcusu.png?alt=media&amp;token=a4ae92c4-0980-410c-aaf3-18fa8ab9a45a</image:loc>
+      <image:title>E60 Yangın Camı Doğrama Ölçüsü</image:title>
+      <image:caption>Genişlik, yükseklik ve çıta derinliği hesabı</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-montaj-detayi.png?alt=media&amp;token=d8bfba88-bb37-4b6d-81e0-42e3932149a7</image:loc>
+      <image:title>E60 Yangına Dayanıklı Cam Takılması</image:title>
+      <image:caption>Isıya dayanıklı sert takoz ve sızdırmaz fitil ile montaj</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-yangin-bolme-duvari.png?alt=media&amp;token=887277ab-8b97-45bb-84b3-4677c1431ab8</image:loc>
+      <image:title>Modern Ofis Yangın Bölme Duvarı</image:title>
+      <image:caption>Şeffaflık ve güvenliğin birleştiği mimari yangın bölmesi</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/yangin-kapisi-cami</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fe90-yangin-kapisi-cami-fiyat-hesaplama.png?alt=media&amp;token=8b792855-cf59-4f89-a16c-9f3adeb278ef</image:loc>
+      <image:title>E90 Yangın Kapısı Camı</image:title>
+      <image:caption>Çelik ve ahşap yangın kapıları için gözetleme vision paneli</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-sertifikali-urun.png?alt=media&amp;token=cf251cee-46cb-4e7b-8a77-0f0038df006d</image:loc>
+      <image:title>Yangın Kapısı Vision Panel Camı</image:title>
+      <image:caption>Sertifikalı çok katmanlı gözetleme camı ünitesi</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-dograma-olcusu.png?alt=media&amp;token=a4ae92c4-0980-410c-aaf3-18fa8ab9a45a</image:loc>
+      <image:title>Kapı Kanadında Vision Panel Ölçümü</image:title>
+      <image:caption>Standart dikdörtgen ve dairesel yangın camı ölçü alma</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-montaj-detayi.png?alt=media&amp;token=d8bfba88-bb37-4b6d-81e0-42e3932149a7</image:loc>
+      <image:title>Çelik Çerçeve ile Kapıya Cam Montajı</image:title>
+      <image:caption>Çift taraflı çelik çerçeveli sızdırmaz yangın camı montajı</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-yangin-bolme-duvari.png?alt=media&amp;token=887277ab-8b97-45bb-84b3-4677c1431ab8</image:loc>
+      <image:title>Acil Çıkış Kapısında Camlı Kullanım</image:title>
+      <image:caption>Acil durumlarda arkasını gösteren güvenli yangın kapısı</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/yangin-guvenlik-cami</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei30-yangin-guvenlik-cami-fiyat-hesaplama.png?alt=media&amp;token=14023cd3-c9e3-40b4-8707-d01e6b17c260</image:loc>
+      <image:title>EI30 Yangın Güvenlik Camı</image:title>
+      <image:caption>EI30 alev, duman ve radyasyon ısısını bloke eden güvenlik camı</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-sertifikali-urun.png?alt=media&amp;token=cf251cee-46cb-4e7b-8a77-0f0038df006d</image:loc>
+      <image:title>EI30 Yangın Güvenlik Camı Ünitesi</image:title>
+      <image:caption>Şeffaf ve darbe dayanımlı yangın bariyeri</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-dograma-olcusu.png?alt=media&amp;token=a4ae92c4-0980-410c-aaf3-18fa8ab9a45a</image:loc>
+      <image:title>Geniş Açıklıklı Cam Alanı Ölçümü</image:title>
+      <image:caption>Profil toleransları ve çıta payları hesabı</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-montaj-detayi.png?alt=media&amp;token=d8bfba88-bb37-4b6d-81e0-42e3932149a7</image:loc>
+      <image:title>Sertifikalı Çelik Yangın Doğraması Montajı</image:title>
+      <image:caption>Yanmaz takoz ve sızdırmazlık fitili uygulaması</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-yangin-bolme-duvari.png?alt=media&amp;token=887277ab-8b97-45bb-84b3-4677c1431ab8</image:loc>
+      <image:title>Kamu Binasında Yangın Güvenlik Duvarı</image:title>
+      <image:caption>Acil kaçış yollarında maksimum can güvenliği</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/yangin-emniyet-cami</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei60-yangin-emniyet-cami-fiyat-hesaplama.png?alt=media&amp;token=68b9bcf6-8f48-412e-b1b2-dbe52207b7f7</image:loc>
+      <image:title>EI60 Yangın Emniyet Camı</image:title>
+      <image:caption>1B1 darbe dayanımlı ve 60 dakika yangın emniyet camı</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-sertifikali-urun.png?alt=media&amp;token=cf251cee-46cb-4e7b-8a77-0f0038df006d</image:loc>
+      <image:title>EI60 Yangın Emniyet Camı Kesiti</image:title>
+      <image:caption>Darbe ve yangına aynı anda dirençli kompozit cam</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-dograma-olcusu.png?alt=media&amp;token=a4ae92c4-0980-410c-aaf3-18fa8ab9a45a</image:loc>
+      <image:title>EI60 Yangın Camı Ölçü Alma</image:title>
+      <image:caption>Kalın camlar için profil derinliği ve cam payı tespiti</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-montaj-detayi.png?alt=media&amp;token=d8bfba88-bb37-4b6d-81e0-42e3932149a7</image:loc>
+      <image:title>Emniyetli Yangın Camı Montajı</image:title>
+      <image:caption>Darbe emici fitiller ile güvenli kilitleme</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-yangin-bolme-duvari.png?alt=media&amp;token=887277ab-8b97-45bb-84b3-4677c1431ab8</image:loc>
+      <image:title>Okul ve Hastane Yangın Emniyet Duvarı</image:title>
+      <image:caption>İnsan sirkülasyonunun yüksek olduğu alanlarda yangın güvenliği</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/yangin-dayanimli-cam</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-fiyat-hesaplama.png?alt=media&amp;token=7044bccc-a18e-49d7-b1fe-7040d30636c4</image:loc>
+      <image:title>EI90 Yangın Dayanımlı Cam</image:title>
+      <image:caption>90 dakika tam yangın ve ısı bariyeri sağlayan EI90 cam</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-sertifikali-urun.png?alt=media&amp;token=cf251cee-46cb-4e7b-8a77-0f0038df006d</image:loc>
+      <image:title>Sertifikalı EI90 Yangın Dayanımlı Cam</image:title>
+      <image:caption>Isı ve alev bariyeri intümesan katmanlı cam</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-dograma-olcusu.png?alt=media&amp;token=a4ae92c4-0980-410c-aaf3-18fa8ab9a45a</image:loc>
+      <image:title>EI90 Doğrama Net Ölçü Tespiti</image:title>
+      <image:caption>Tolerans ve çıta derinliği tespiti</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-montaj-detayi.png?alt=media&amp;token=d8bfba88-bb37-4b6d-81e0-42e3932149a7</image:loc>
+      <image:title>Sertifikalı Yangın Camı Montajı</image:title>
+      <image:caption>Yangın takozu ve intümesan fitil uygulaması</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-yangin-bolme-duvari.png?alt=media&amp;token=887277ab-8b97-45bb-84b3-4677c1431ab8</image:loc>
+      <image:title>Mimari Yangın Zonlama Duvarı</image:title>
+      <image:caption>Yangının yayılmasını durduran şeffaf mimari bariyer</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/temperli-cam</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/09-e-ew-yangin-cami-mimaricam.png?alt=media&amp;token=bf957bd4-3af9-44ba-bd6f-ab1b081ef322</image:loc>
+      <image:title>EN 12150 Sertifikalı Temperli Cam</image:title>
+      <image:caption>5 kat mukavemetli şeffaf emniyet camı ve rodajlı kenar</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-dograma-olcusu.png?alt=media&amp;token=a4ae92c4-0980-410c-aaf3-18fa8ab9a45a</image:loc>
+      <image:title>Temperli Cam Kapı ve Delik Aksı Ölçümü</image:title>
+      <image:caption>Menteşe delikleri ve köşe boşluklarının hassas tespiti</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-montaj-detayi.png?alt=media&amp;token=d8bfba88-bb37-4b6d-81e0-42e3932149a7</image:loc>
+      <image:title>Contalı Menteşe ve Korkuluk Montajı</image:title>
+      <image:caption>Camı metale değdirmeyen kauçuk contalı sabitleme</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/yeni%20hesaplayici%20resimler%2Fei90-yangin-dayanimli-cam-yangin-bolme-duvari.png?alt=media&amp;token=887277ab-8b97-45bb-84b3-4677c1431ab8</image:loc>
+      <image:title>Mimari Cam Kapı ve Korkuluk</image:title>
+      <image:caption>Modern ofiste temperli cam kapı ve korkuluk</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/yangin-camlari</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/09-e-ew-yangin-cami-mimaricam.png?alt=media&amp;token=bf957bd4-3af9-44ba-bd6f-ab1b081ef322</image:loc>
+      <image:title>Yangına Dayanıklı Cam Sistemleri</image:title>
+      <image:caption>E, EW ve EI sınıflarında yangına dayanıklı mimari camlar</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/urunler</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/09-e-ew-yangin-cami-mimaricam.png?alt=media&amp;token=bf957bd4-3af9-44ba-bd6f-ab1b081ef322</image:loc>
+      <image:title>MimariCam Ürün Kataloğu</image:title>
+      <image:caption>Yangın ve şömine camları ürün kataloğu</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/projeler</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/teknik-bilgi</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/teklif-al</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/anasayfa</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/kategori/yangin-camlari</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/kategori/isiya-dayanikli-camlar</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/kategori/somine-cami</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/kategori/soba-cami</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/kategori/robax-cam-seramik</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/kategori/temperli-camlar</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/kategori/lamine-camlar</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/kategori/mimari-camlar</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/kategori/cephe-camlari</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/kategori/ozel-olcu-cam</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/kategori/endustriyel-cam</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/urun/yangin-cami-ei60-flameguard</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/09-e-ew-yangin-cami-mimaricam.png?alt=media&amp;token=bf957bd4-3af9-44ba-bd6f-ab1b081ef322</image:loc>
+      <image:title>MimariCam FlameGuard EI60 Yangın Camı</image:title>
+      <image:caption>60 dakika yangın ve ısı yalıtımı sağlayan yangın camı</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/urun/yangin-cami-ei30-flameguard</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/09-e-ew-yangin-cami-mimaricam.png?alt=media&amp;token=bf957bd4-3af9-44ba-bd6f-ab1b081ef322</image:loc>
+      <image:title>MimariCam FlameGuard EI30 Yangın Camı</image:title>
+      <image:caption>30 dakika yangın alevi ve ısı geçişini engelleyen yangın camı</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/urun/yangin-cami-ei90-flameguard</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/09-e-ew-yangin-cami-mimaricam.png?alt=media&amp;token=bf957bd4-3af9-44ba-bd6f-ab1b081ef322</image:loc>
+      <image:title>MimariCam HeavyDuty EI90 Yangın Camı</image:title>
+      <image:caption>90 dakika tam yangın ve ısı bariyeri sağlayan yangın camı</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/urun/yangin-cami-ei120-flameguard</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/09-e-ew-yangin-cami-mimaricam.png?alt=media&amp;token=bf957bd4-3af9-44ba-bd6f-ab1b081ef322</image:loc>
+      <image:title>MimariCam Fortress EI120 Yangın Camı</image:title>
+      <image:caption>120 dakika kesintisiz yangın bütünlüğü sağlayan yangın camı</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/urun/schott-robax-somine-cami</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://firebasestorage.googleapis.com/v0/b/mimaricam-7dbd6.firebasestorage.app/o/09-e-ew-yangin-cami-mimaricam.png?alt=media&amp;token=bf957bd4-3af9-44ba-bd6f-ab1b081ef322</image:loc>
+      <image:title>SCHOTT ROBAX Orijinal Şömine ve Soba Camı</image:title>
+      <image:caption>800 dereceye dayanıklı orijinal Alman Schott ROBAX seramik cam</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/urun/ozel-olcu-kavisli-ve-delikli-cam</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/urun/akustik-lamine-guvenlik-cami</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/urun/gunes-kontrol-low-e-cephe-cami</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/sehir/istanbul</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/sehir/ankara</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/sehir/izmir</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/sehir/bursa</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/sehir/antalya</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/hakkimizda</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/mesafeli-satis-sozlesmesi</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/gizlilik-ve-guvenlik</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/iptal-ve-iade-kosullari</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/kisisel-veriler-politikasi</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://mimaricam.com/cerez-politikasi</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+</urlset>

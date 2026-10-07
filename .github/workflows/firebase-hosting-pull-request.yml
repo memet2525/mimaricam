@@ -1,0 +1,64 @@
+name: Deploy to Firebase Hosting on PR
+on:
+  pull_request:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+jobs:
+  build_and_preview:
+    name: Build & Deploy Preview Channel
+    if: github.event_name == 'workflow_dispatch' || github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+      - name: Install dependencies
+        run: npm ci
+      - name: Code Quality & Type Check
+        run: npm run lint
+      - name: Build production bundle
+        run: npm run build
+      - name: Prepare & Sanitize Firebase Credentials
+        env:
+          SA_KEY: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_MIMARICAM_7DBD6 }}
+        run: |
+          node -e "
+          const fs = require('fs');
+          let raw = process.env.SA_KEY;
+          if (!raw) {
+            console.error('Hata: FIREBASE_SERVICE_ACCOUNT_MIMARICAM_7DBD6 secret boş veya bulunamadı.');
+            process.exit(1);
+          }
+          try {
+            const decoded = Buffer.from(raw, 'base64').toString('utf8');
+            if (decoded.includes('private_key')) raw = decoded;
+          } catch (e) {}
+
+          let parsed;
+          try {
+            parsed = JSON.parse(raw);
+          } catch (e) {
+            console.error('Hata: Service Account geçerli bir JSON objesi değil.');
+            process.exit(1);
+          }
+
+          if (parsed.private_key) {
+            parsed.private_key = parsed.private_key.replace(/\\\\n/g, '\n');
+          }
+
+          const targetPath = '/tmp/firebase-service-account.json';
+          fs.writeFileSync(targetPath, JSON.stringify(parsed));
+          console.log('Firebase Service Account anahtarı doğrulandı.');
+          "
+          echo "GOOGLE_APPLICATION_CREDENTIALS=/tmp/firebase-service-account.json" >> $GITHUB_ENV
+      - name: Deploy to Firebase Hosting Preview Channel
+        run: |
+          CHANNEL_NAME="pr-${{ github.event.pull_request.number || 'preview' }}"
+          npx --yes firebase-tools hosting:channel:deploy "$CHANNEL_NAME" --project mimaricam-7dbd6 --non-interactive

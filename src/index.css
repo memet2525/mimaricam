@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@layer base {
+  /* Chrome, Safari, Edge, Opera spin buttons */
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  /* Firefox */
+  input[type="number"] {
+    -moz-appearance: textfield;
+    appearance: textfield;
+  }
+
+  html, body {
+    background-color: #ffffff;
+    color: #111827;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+
+  ::selection {
+    background-color: #fef3c7;
+    color: #92400e;
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "MimariCam",
+  "description": "Türkiye'nin lider mimari cam, yangına dayanıklı cam (E, EW, EI30-EI120), ROBAX şömine-soba camı ve özel ölçü cam çözümleri platformu. Camınızı tasarlayın, teknik föyleri inceleyin ve anında teklif alın.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,31 @@
+rules_version = '2';
+
+// Craft rules based on Firebase Authentication and Admin identity
+service firebase.storage {
+  match /b/{bucket}/o {
+
+    // Helper: Check if user is signed in
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    // Helper: Check if authenticated user is the designated system admin
+    function isAdmin() {
+      return isSignedIn() && (
+        request.auth.token.email in ['atlaspelet.com@gmail.com', 'admin@mimaricam.com']
+      );
+    }
+
+    // 1. All images and assets are publicly readable for website display
+    match /{allPaths=**} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // 2. Admin image upload folder: only authorized admin can upload, replace, or delete
+    match /mimaricam-gorseller/{allPaths=**} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+  }
+}

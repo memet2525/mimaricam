@@ -1,0 +1,166 @@
+{
+  "entities": {
+    "userProfile": {
+      "title": "UserProfile",
+      "description": "MimariCam kullanıcı profil bilgileri",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string", "maxLength": 128 },
+        "displayName": { "type": "string", "maxLength": 120 },
+        "email": { "type": "string", "format": "email", "maxLength": 160 },
+        "photoURL": { "type": "string", "maxLength": 500 },
+        "role": {
+          "type": "string",
+          "enum": ["architect", "engineer", "client", "contractor", "glazier", "stove_manufacturer", "admin"]
+        },
+        "createdAt": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["uid", "displayName", "email", "createdAt"]
+    },
+    "quote": {
+      "title": "Quote",
+      "description": "Özel cam veya ürün teklif talebi",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "quoteNumber": { "type": "string", "maxLength": 64 },
+        "clientName": { "type": "string", "maxLength": 120 },
+        "clientCompany": { "type": "string", "maxLength": 150 },
+        "clientType": {
+          "type": "string",
+          "enum": ["architect", "engineer", "contractor", "glazier", "stove_manufacturer", "individual"]
+        },
+        "clientEmail": { "type": "string", "format": "email", "maxLength": 160 },
+        "clientPhone": { "type": "string", "maxLength": 50 },
+        "city": { "type": "string", "maxLength": 80 },
+        "district": { "type": "string", "maxLength": 80 },
+        "status": {
+          "type": "string",
+          "enum": ["new", "in_review", "quoted", "approved", "rejected", "delivered"]
+        },
+        "items": { "type": "array" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["quoteNumber", "clientName", "clientEmail", "clientPhone", "city", "status", "createdAt"]
+    },
+    "product": {
+      "title": "Product",
+      "description": "MimariCam standart ve yangın camı ürünleri",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "slug": { "type": "string", "maxLength": 120 },
+        "name": { "type": "string", "maxLength": 200 },
+        "code": { "type": "string", "maxLength": 80 },
+        "categorySlug": { "type": "string", "maxLength": 120 },
+        "fireRating": {
+          "type": "string",
+          "enum": ["NONE", "E", "EW", "EI", "EI30", "EI60", "EI90", "EI120"]
+        },
+        "thicknessMm": { "type": "string", "maxLength": 50 },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["slug", "name", "code", "categorySlug", "fireRating", "createdAt"]
+    },
+    "project": {
+      "title": "Project",
+      "description": "Mimari proje kaydı",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "title": { "type": "string", "maxLength": 200 },
+        "client": { "type": "string", "maxLength": 150 },
+        "location": { "type": "string", "maxLength": 250 },
+        "description": { "type": "string", "maxLength": 2000 },
+        "status": {
+          "type": "string",
+          "enum": ["concept", "schematic", "construction", "completed", "archived"]
+        },
+        "ownerId": { "type": "string", "maxLength": 128 },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["title", "status", "createdAt"]
+    },
+    "imageItem": {
+      "title": "ImageItem",
+      "description": "MimariCam merkezi görsel kütüphanesi kaydı",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "name": { "type": "string", "maxLength": 200 },
+        "seoFileName": { "type": "string", "maxLength": 200 },
+        "altText": { "type": "string", "maxLength": 300 },
+        "title": { "type": "string", "maxLength": 200 },
+        "description": { "type": "string", "maxLength": 1000 },
+        "category": { "type": "string", "maxLength": 120 },
+        "product": { "type": "string", "maxLength": 120 },
+        "isActive": { "type": "boolean" },
+        "order": { "type": "number" },
+        "source": {
+          "type": "string",
+          "enum": ["Firebase Storage", "Harici URL"]
+        },
+        "url": { "type": "string", "maxLength": 1000 },
+        "storagePath": { "type": "string", "maxLength": 500 },
+        "createdAt": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["name", "seoFileName", "altText", "title", "category", "product", "isActive", "order", "source", "url", "createdAt"]
+    },
+    "legalPage": {
+      "title": "LegalPage",
+      "description": "Kurumsal ve yasal sözleşme sayfaları içeriği",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "slug": { "type": "string", "maxLength": 128 },
+        "title": { "type": "string", "maxLength": 200 },
+        "summary": { "type": "string", "maxLength": 500 },
+        "content": { "type": "string", "maxLength": 100000 },
+        "updatedAt": { "type": "string" },
+        "updatedBy": { "type": "string", "maxLength": 100 }
+      },
+      "required": ["id", "slug", "title", "content", "updatedAt"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "userProfile",
+      "description": "Kullanıcı profilleri ve yetki bilgileri"
+    },
+    "/quotes/{quoteId}": {
+      "schema": "quote",
+      "description": "Teklif ve sipariş talepleri"
+    },
+    "/orders/{orderId}": {
+      "schema": "quote",
+      "description": "Sipariş ve teklif kayıtları"
+    },
+    "/test/{testId}": {
+      "description": "Sunucu bağlantı doğrulama dokümanları"
+    },
+    "/products/{productId}": {
+      "schema": "product",
+      "description": "Cam ürün kataloğu"
+    },
+    "/projects/{projectId}": {
+      "schema": "project",
+      "description": "Referans mimari projeler koleksiyonu"
+    },
+    "/images/{imageId}": {
+      "schema": "imageItem",
+      "description": "Merkezi görsel kütüphanesi ve SEO metadata arşivi"
+    },
+    "/legal_pages/{pageId}": {
+      "schema": "legalPage",
+      "description": "Kurumsal ve yasal sayfaların içerik ve metin kayıtları"
+    },
+    "/settings/{settingId}": {
+      "description": "Sistem genel ayarları ve sipariş e-posta bildirim listeleri"
+    },
+    "/mail/{mailId}": {
+      "description": "Sipariş bildirim e-postaları kuyruğu"
+    }
+  }
+}
